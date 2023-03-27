@@ -58,7 +58,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <p align='center'><a href="https://twitter.com/@mrpankajpandey_"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@mrpankajpandey_&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
 <h4>Just Scan and connect🤝</h4>
- <img src="" height="150px" width="150px"/>
+ <img src="![linkedInQR](https://user-images.githubusercontent.com/107976020/227867097-040578b6-4e65-4c52-852d-9611fb636985.png)" height="150px" width="150px"/>
  
 <hr/>
 <h3 align="left">Languages and Tools:</h3>

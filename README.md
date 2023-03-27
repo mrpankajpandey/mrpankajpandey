@@ -1,5 +1,3 @@
-![linkedInQR](https://user-images.githubusercontent.com/107976020/227875087-29334724-18e5-4109-af9e-5ce11e8e48be.png)
-
 
 <h1 align="center">Hi 👋, I'm Pankaj Pandey</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>

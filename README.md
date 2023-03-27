@@ -1,4 +1,4 @@
-
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Pankaj Pandey</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
@@ -16,6 +16,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <hr/>
  <p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+ 
+ <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently learning **Django**
 
@@ -57,7 +59,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <p align='center'><a href="https://twitter.com/@mrpankajpandey_"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@mrpankajpandey_&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
 <h4>Just Scan and connect🤝</h4>
- <img src="![linkedInQR](https://user-images.githubusercontent.com/107976020/227867097-040578b6-4e65-4c52-852d-9611fb636985.png)" height="150px" width="150px"/>
+ <img src="https://user-images.githubusercontent.com/107976020/227875087-29334724-18e5-4109-af9e-5ce11e8e48be.png" height="150px" width="150px"/>
  
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
@@ -84,5 +86,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <!--<a href="http://www.github.com/mrpankajpandey"><img src="https://github-readme-stats.vercel.app/api?username=mrpankajpandey&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pankaj 💁‍♂️🤷‍♂️ GitHub stats" /></a>
 </hr>
 <a href="https://github.com/mrpankajpandey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpankajpandey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+
 
 

@@ -50,6 +50,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://www.leetcode.com/mr_pankajpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_pankajpandey_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mrpankajpandey0038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrpankajpandey0038" height="30" width="40" /></a>
 <a href="https://discord.gg/CcaBwzjy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CcaBwzjy" height="30" width="40" /></a>
+<a href="https://www.w3profile.com/mrpankajpandey" target="blank"><img align="center" src="https://www.w3schools.com/images/w3schools_logo_436_2.png" alt="CcaBwzjy" height="30" width="40" /></a>
 </p>
 <hr/>
  <h2 align="left">🤝Let's Connect</h2>

@@ -19,7 +19,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  
  <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://mrpankajpandey.github.io/my_portfolio/](https://mrpankajpandey.github.io/my_portfolio/)
 

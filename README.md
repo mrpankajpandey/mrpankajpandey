@@ -4,6 +4,10 @@
 
 <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
 <hr/>
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrpankajpandey_) 
+
 <p align="left" style="max-width:40%">
 From Lucknow Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications and Android applications.
 
@@ -58,7 +62,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <a href="https://twitter.com/@mrpankajpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/pankaj-kumar-pandey-187b5a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<p align='center'><a href="https://twitter.com/@mrpankajpandey_"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@mrpankajpandey_&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h4>Just Scan and connect🤝</h4>
  <img src="https://user-images.githubusercontent.com/107976020/227875087-29334724-18e5-4109-af9e-5ce11e8e48be.png" height="150px" width="150px"/>
@@ -73,16 +79,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpankajpandey&" alt="mrpankajpandey" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mrpankajpandey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <hr/>
-
-## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=mrpankajpandey&theme=algolia" align="center" alt="mrpankajpandey" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrpankajpandey&theme=2077" width="100%" />
-
-
-![GitHub metrics](https://metrics.lecoq.io/mrpankajpandey) 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrpankajpandey&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--<a href="http://www.github.com/mrpankajpandey"><img src="https://github-readme-stats.vercel.app/api?username=mrpankajpandey&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pankaj 💁‍♂️🤷‍♂️ GitHub stats" /></a>

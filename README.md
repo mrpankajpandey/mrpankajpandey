@@ -25,7 +25,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://mrpankajpandey.github.io/my_portfolio/](https://mrpankajpandey.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mrpankajpandey.vercel.app/](https://mrpankajpandey.vercel.app)
 
 - 💬 Ask me about **Android with java, Web development**
 

@@ -27,11 +27,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 👨‍💻 All of my projects are available at [https://mrpankajpandey.vercel.app/](https://mrpankajpandey.vercel.app)
 
-- 💬 Ask me about **Android with java, Web development**
+- 💬 Ask me about **NodeJS, ExpressJs, NextJs, AWS, MongoDB, java, Web development**
 
 - 📫 How to reach me **mr.pankajpandey0038@gmail.com**
-
-- ⚡ Fun fact **I am funny 😎** 
 
  ✔️  I aspire to work as a programmer.
 
@@ -48,7 +46,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <p align="left">
 <a href="https://codepen.io/mr_pankajpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr_pankajpandey" height="30" width="40" /></a>
 <a href="https://twitter.com/mrpankajpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpankajpandey_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankaj-kumar-pandey-187b5a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-kumar-pandey-187b5a222/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrpankajpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-kumar-pandey-187b5a222/" height="30" width="40" /></a>
 <a href="https://instagram.com/the_cybersecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_cybersecurity" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mr_pankajpandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr_pankajpandey1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mr_pankajpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_pankajpandey_" height="30" width="40" /></a>
